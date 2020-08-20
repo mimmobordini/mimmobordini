@@ -1,10 +1,8 @@
-# Giovanni Pagliuca
+# Giovanni Pagliuca 
 
- 
-<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" href="" /> g.pagliuca1994@gmail.com
-  
-___
 <!--LINKS-->
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 [<img align="left" alt="Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -18,3 +16,4 @@ ___
 [twitter]: https://twitter.com/ANONOPS_Jonny
 [facebook]: https://www.facebook.com/gpagliuca1/ 
 [skype]: https://join.skype.com/invite/l6MbocrShFoS
+[gmail]: g.pagliuca1994@gmail.com
