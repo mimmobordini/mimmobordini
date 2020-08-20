@@ -16,4 +16,4 @@
 [twitter]: https://twitter.com/ANONOPS_Jonny
 [facebook]: https://www.facebook.com/gpagliuca1/ 
 [skype]: https://join.skype.com/invite/l6MbocrShFoS
-[gmail]: g.pagliuca1994@gmail.com
+[gmail]: mailto:g.pagliuca1994@gmail.com
